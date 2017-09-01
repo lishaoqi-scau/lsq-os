@@ -1,0 +1,12 @@
+# C++ objects and libs
+*.bin
+*.elf
+*.hex
+*.map
+*.lo
+*.a
+*.so
+*bak
+
+
+
