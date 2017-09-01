@@ -6,7 +6,12 @@
 *.lo
 *.a
 *.so
+*.o
+*.d
 *bak
+./los/*.o
+./libopencm3/*.o
+./driver/*.o
 
 
 
